@@ -1,0 +1,39 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+}
+.container{
+    background-color: #1B1924;
+    height: 200vh;
+    min-width: 370px;
+}
+.nav-image{
+    display: flex;
+    height: 90px;
+    width: 90px;
+    margin: 0 auto;
+    padding-top: 51px;
+}
+main{
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+#endorsement-text{
+    width: 317px;
+    height: 118px;
+    background-color: #444059;
+    color: #8F8F8F;
+    margin: 0 auto; /* Add this to center the textarea horizontally */ 
+    padding: 10px; /* Add this to create space for the placeholder text */
+    text-align: center; /* Add this to center the text inside the textarea */
+    resize: none; /* Add this to prevent resizing of the textarea */
+}
+/* .endorsements{
+   
+}
+.post-endorsement{
+    
+} */
